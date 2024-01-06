@@ -1,0 +1,109 @@
+[22/05/2021 23:35:03] S01 comienza su descanso.
+[22/05/2021 23:35:04] S02 comienza su descanso.
+[22/05/2021 23:35:04] S03 comienza su descanso.
+[22/05/2021 23:35:04] S04 comienza su descanso.
+[22/05/2021 23:35:04] S05 comienza su descanso.
+[22/05/2021 23:35:04] S06 comienza su descanso.
+[22/05/2021 23:35:04] S07 comienza su descanso.
+[22/05/2021 23:35:04] S08 comienza su descanso.
+[22/05/2021 23:35:04] S09 comienza su descanso.
+[22/05/2021 23:35:04] S10 comienza su descanso.
+[22/05/2021 23:35:04] SAux comienza su descanso.
+[22/05/2021 23:35:05] S09 termina su descanso.
+[22/05/2021 23:35:05] Al sanitario S09 se le ha asignado el puesto SVP1
+[22/05/2021 23:35:05] S09 va a por vacunas.
+[22/05/2021 23:35:05] S09 ha conseguido vacunas.
+[22/05/2021 23:35:05] Paciente P0001 será vacunado en el puestoSVP1 por el sanitario S09
+[22/05/2021 23:35:05] S05 termina su descanso.
+[22/05/2021 23:35:05] Al sanitario S05 se le ha asignado el puesto SVP2
+[22/05/2021 23:35:05] S06 termina su descanso.
+[22/05/2021 23:35:05] Al sanitario S06 se le ha asignado el puesto SVP3
+[22/05/2021 23:35:05] S10 termina su descanso.
+[22/05/2021 23:35:05] Al sanitario S10 se le ha asignado el puesto SVP4
+[22/05/2021 23:35:05] S07 termina su descanso.
+[22/05/2021 23:35:05] Al sanitario S07 se le ha asignado el puesto SVP5
+[22/05/2021 23:35:05] S03 termina su descanso.
+[22/05/2021 23:35:05] Al sanitario S03 se le ha asignado el puesto SVP6
+[22/05/2021 23:35:05] S08 termina su descanso.
+[22/05/2021 23:35:05] Al sanitario S08 se le ha asignado el puesto SVP7
+[22/05/2021 23:35:06] Paciente P0002 será vacunado en el puestoSVP2 por el sanitario S05
+[22/05/2021 23:35:06] S05 va a por vacunas.
+[22/05/2021 23:35:06] S05 ha conseguido vacunas.
+[22/05/2021 23:35:06] S02 termina su descanso.
+[22/05/2021 23:35:06] Al sanitario S02 se le ha asignado el puesto SVP8
+[22/05/2021 23:35:06] S04 termina su descanso.
+[22/05/2021 23:35:06] Al sanitario S04 se le ha asignado el puesto SVP9
+[22/05/2021 23:35:06] S01 termina su descanso.
+[22/05/2021 23:35:06] Al sanitario S01 se le ha asignado el puesto SVP10
+[22/05/2021 23:35:06] SAux termina su descanso.
+[22/05/2021 23:35:07] Paciente P0003 será vacunado en el puestoSVP3 por el sanitario S06
+[22/05/2021 23:35:07] S06 va a por vacunas.
+[22/05/2021 23:35:07] S06 ha conseguido vacunas.
+[22/05/2021 23:35:08] Paciente P0001 está a punto de ser vacunado en el puesto SVP1 por el sanitario S09
+[22/05/2021 23:35:08] Paciente P0001 ha sido vacunado en el puestoSVP1 por el sanitario S09
+[22/05/2021 23:35:08] P0001 se dirige a la sala de observacion
+[22/05/2021 23:35:09] Paciente P0004 será vacunado en el puestoSVP1 por el sanitario S09
+[22/05/2021 23:35:09] S09 va a por vacunas.
+[22/05/2021 23:35:09] S09 ha conseguido vacunas.
+[22/05/2021 23:35:10] Paciente P0002 está a punto de ser vacunado en el puesto SVP2 por el sanitario S05
+[22/05/2021 23:35:10] Paciente P0002 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[22/05/2021 23:35:10] P0002 se dirige a la sala de observacion
+[22/05/2021 23:35:10] Paciente P0005 será vacunado en el puestoSVP2 por el sanitario S05
+[22/05/2021 23:35:10] S05 va a por vacunas.
+[22/05/2021 23:35:10] S05 ha conseguido vacunas.
+[22/05/2021 23:35:12] Paciente P0003 está a punto de ser vacunado en el puesto SVP3 por el sanitario S06
+[22/05/2021 23:35:12] Paciente P0003 ha sido vacunado en el puestoSVP3 por el sanitario S06
+[22/05/2021 23:35:12] P0003 se dirige a la sala de observacion
+[22/05/2021 23:35:12] Paciente P0004 está a punto de ser vacunado en el puesto SVP1 por el sanitario S09
+[22/05/2021 23:35:12] Paciente P0004 ha sido vacunado en el puestoSVP1 por el sanitario S09
+[22/05/2021 23:35:12] P0004 se dirige a la sala de observacion
+[22/05/2021 23:35:13] Paciente P0006 será vacunado en el puestoSVP1 por el sanitario S09
+[22/05/2021 23:35:13] S09 va a por vacunas.
+[22/05/2021 23:35:13] S09 ha conseguido vacunas.
+[22/05/2021 23:35:15] Se ha cerrado el puesto SVP8 para limpiar
+[22/05/2021 23:35:15] S02 comienza su descanso.
+[22/05/2021 23:35:15] Paciente P0005 está a punto de ser vacunado en el puesto SVP2 por el sanitario S05
+[22/05/2021 23:35:15] Paciente P0005 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[22/05/2021 23:35:15] P0005 se dirige a la sala de observacion
+[22/05/2021 23:35:16] Se ha cerrado el puesto SVP9 para limpiar
+[22/05/2021 23:35:16] S04 comienza su descanso.
+[22/05/2021 23:35:16] Paciente P0007 será vacunado en el puestoSVP2 por el sanitario S05
+[22/05/2021 23:35:16] S05 va a por vacunas.
+[22/05/2021 23:35:16] S05 ha conseguido vacunas.
+[22/05/2021 23:35:17] Se ha cerrado el puesto SVP10 para limpiar
+[22/05/2021 23:35:17] S01 comienza su descanso.
+[22/05/2021 23:35:17] A2 comienza su descanso.
+[22/05/2021 23:35:17] Paciente P0006 está a punto de ser vacunado en el puesto SVP1 por el sanitario S09
+[22/05/2021 23:35:17] Paciente P0006 ha sido vacunado en el puestoSVP1 por el sanitario S09
+[22/05/2021 23:35:17] P0006 se dirige a la sala de observacion
+[22/05/2021 23:35:18] Paciente P0008 será vacunado en el puestoSVP1 por el sanitario S09
+[22/05/2021 23:35:18] S09 va a por vacunas.
+[22/05/2021 23:35:18] S09 ha conseguido vacunas.
+[22/05/2021 23:35:18] El paciente P0001 se va del hospital
+[22/05/2021 23:35:19] Paciente P0009 será vacunado en el puestoSVP3 por el sanitario S06
+[22/05/2021 23:35:19] S06 va a por vacunas.
+[22/05/2021 23:35:19] S06 ha conseguido vacunas.
+[22/05/2021 23:35:20] A2 termina su descanso.
+[22/05/2021 23:35:20] El paciente P0002 se va del hospital
+[22/05/2021 23:35:21] Paciente P0007 está a punto de ser vacunado en el puesto SVP2 por el sanitario S05
+[22/05/2021 23:35:21] Paciente P0007 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[22/05/2021 23:35:21] P0007 se dirige a la sala de observacion
+[22/05/2021 23:35:21] Paciente P0010 será vacunado en el puestoSVP2 por el sanitario S05
+[22/05/2021 23:35:21] S05 va a por vacunas.
+[22/05/2021 23:35:21] A1 comienza su descanso.
+[22/05/2021 23:35:21] S05 ha conseguido vacunas.
+[22/05/2021 23:35:22] S04 termina su descanso.
+[22/05/2021 23:35:22] El paciente P0003 se va del hospital
+[22/05/2021 23:35:22] El paciente P0004 se va del hospital
+[22/05/2021 23:35:22] S01 termina su descanso.
+[22/05/2021 23:35:23] S02 termina su descanso.
+[22/05/2021 23:35:23] Paciente P0008 está a punto de ser vacunado en el puesto SVP1 por el sanitario S09
+[22/05/2021 23:35:23] Paciente P0008 ha sido vacunado en el puestoSVP1 por el sanitario S09
+[22/05/2021 23:35:23] P0008 se dirige a la sala de observacion
+[22/05/2021 23:35:24] Paciente P0009 está a punto de ser vacunado en el puesto SVP3 por el sanitario S06
+[22/05/2021 23:35:24] Paciente P0009 ha sido vacunado en el puestoSVP3 por el sanitario S06
+[22/05/2021 23:35:24] P0009 se dirige a la sala de observacion
+[22/05/2021 23:35:24] Paciente P0010 está a punto de ser vacunado en el puesto SVP2 por el sanitario S05
+[22/05/2021 23:35:24] Paciente P0010 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[22/05/2021 23:35:24] P0010 se dirige a la sala de observacion
+[22/05/2021 23:35:25] A1 termina su descanso.

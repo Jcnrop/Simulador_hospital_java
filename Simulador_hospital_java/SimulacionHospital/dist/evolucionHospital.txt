@@ -1,0 +1,923 @@
+[06/01/2024 13:59:14] S01 comienza su descanso.
+[06/01/2024 13:59:14] S02 comienza su descanso.
+[06/01/2024 13:59:14] S03 comienza su descanso.
+[06/01/2024 13:59:14] S04 comienza su descanso.
+[06/01/2024 13:59:14] S05 comienza su descanso.
+[06/01/2024 13:59:14] S06 comienza su descanso.
+[06/01/2024 13:59:14] S07 comienza su descanso.
+[06/01/2024 13:59:14] S08 comienza su descanso.
+[06/01/2024 13:59:14] S09 comienza su descanso.
+[06/01/2024 13:59:14] SAux comienza su descanso.
+[06/01/2024 13:59:14] S10 comienza su descanso.
+[06/01/2024 13:59:16] S01 termina su descanso.
+[06/01/2024 13:59:16] Al sanitario S01 se le ha asignado el puesto SVP1
+[06/01/2024 13:59:16] S01 va a por vacunas.
+[06/01/2024 13:59:16] S01 ha conseguido vacunas.
+[06/01/2024 13:59:16] Paciente P0001 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 13:59:16] S05 termina su descanso.
+[06/01/2024 13:59:16] Al sanitario S05 se le ha asignado el puesto SVP2
+[06/01/2024 13:59:16] S06 termina su descanso.
+[06/01/2024 13:59:16] Al sanitario S06 se le ha asignado el puesto SVP3
+[06/01/2024 13:59:16] S02 termina su descanso.
+[06/01/2024 13:59:16] Al sanitario S02 se le ha asignado el puesto SVP4
+[06/01/2024 13:59:16] S04 termina su descanso.
+[06/01/2024 13:59:16] Al sanitario S04 se le ha asignado el puesto SVP5
+[06/01/2024 13:59:17] S03 termina su descanso.
+[06/01/2024 13:59:17] Al sanitario S03 se le ha asignado el puesto SVP6
+[06/01/2024 13:59:17] S07 termina su descanso.
+[06/01/2024 13:59:17] Al sanitario S07 se le ha asignado el puesto SVP7
+[06/01/2024 13:59:17] S09 termina su descanso.
+[06/01/2024 13:59:17] Al sanitario S09 se le ha asignado el puesto SVP8
+[06/01/2024 13:59:17] SAux termina su descanso.
+[06/01/2024 13:59:17] S08 termina su descanso.
+[06/01/2024 13:59:17] Al sanitario S08 se le ha asignado el puesto SVP9
+[06/01/2024 13:59:17] S10 termina su descanso.
+[06/01/2024 13:59:17] Al sanitario S10 se le ha asignado el puesto SVP10
+[06/01/2024 13:59:18] Paciente P0002 será vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 13:59:18] S05 va a por vacunas.
+[06/01/2024 13:59:18] S05 ha conseguido vacunas.
+[06/01/2024 13:59:19] Paciente P0003 será vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 13:59:19] S06 va a por vacunas.
+[06/01/2024 13:59:19] S06 ha conseguido vacunas.
+[06/01/2024 13:59:20] Paciente P0001 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 13:59:20] P0001 se dirige a la sala de observacion
+[06/01/2024 13:59:22] Paciente P0004 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 13:59:22] S01 va a por vacunas.
+[06/01/2024 13:59:22] S01 ha conseguido vacunas.
+[06/01/2024 13:59:22] Paciente P0002 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 13:59:22] P0002 se dirige a la sala de observacion
+[06/01/2024 13:59:23] Paciente P0003 ha sido vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 13:59:23] P0003 se dirige a la sala de observacion
+[06/01/2024 13:59:23] Paciente P0005 será vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 13:59:23] S05 va a por vacunas.
+[06/01/2024 13:59:23] S05 ha conseguido vacunas.
+[06/01/2024 13:59:25] Paciente P0006 será vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 13:59:25] S06 va a por vacunas.
+[06/01/2024 13:59:25] S06 ha conseguido vacunas.
+[06/01/2024 13:59:26] Paciente P0004 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 13:59:26] P0004 se dirige a la sala de observacion
+[06/01/2024 13:59:27] Paciente P0007 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 13:59:27] S01 va a por vacunas.
+[06/01/2024 13:59:27] S01 ha conseguido vacunas.
+[06/01/2024 13:59:27] Paciente P0005 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 13:59:27] P0005 se dirige a la sala de observacion
+[06/01/2024 13:59:29] Paciente P0008 será vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 13:59:29] S05 va a por vacunas.
+[06/01/2024 13:59:29] S05 ha conseguido vacunas.
+[06/01/2024 13:59:29] Paciente P0006 ha sido vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 13:59:29] P0006 se dirige a la sala de observacion
+[06/01/2024 13:59:29] A2 comienza su descanso.
+[06/01/2024 13:59:30] El paciente P0001 se va del hospital
+[06/01/2024 13:59:30] Paciente P0009 será vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 13:59:30] S06 va a por vacunas.
+[06/01/2024 13:59:30] S06 ha conseguido vacunas.
+[06/01/2024 13:59:31] Paciente P0007 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 13:59:31] P0007 se dirige a la sala de observacion
+[06/01/2024 13:59:32] El paciente P0002 se va del hospital
+[06/01/2024 13:59:32] Paciente P0010 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 13:59:32] S01 va a por vacunas.
+[06/01/2024 13:59:32] A1 comienza su descanso.
+[06/01/2024 13:59:32] S01 ha conseguido vacunas.
+[06/01/2024 13:59:33] A2 termina su descanso.
+[06/01/2024 13:59:33] El paciente P0003 se va del hospital
+[06/01/2024 13:59:33] Paciente P0009 ha sido vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 13:59:33] P0009 se dirige a la sala de observacion
+[06/01/2024 13:59:33] Paciente P0008 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 13:59:33] P0008 se dirige a la sala de observacion
+[06/01/2024 13:59:36] A1 termina su descanso.
+[06/01/2024 13:59:36] El paciente P0004 se va del hospital
+[06/01/2024 13:59:37] Paciente P0011 será vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 13:59:37] S05 va a por vacunas.
+[06/01/2024 13:59:37] S05 ha conseguido vacunas.
+[06/01/2024 13:59:37] Paciente P0010 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 13:59:37] P0010 se dirige a la sala de observacion
+[06/01/2024 13:59:37] El paciente P0005 se va del hospital
+[06/01/2024 13:59:38] Paciente P0012 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 13:59:38] S01 va a por vacunas.
+[06/01/2024 13:59:38] S01 ha conseguido vacunas.
+[06/01/2024 13:59:39] El paciente P0006 se va del hospital
+[06/01/2024 13:59:40] Paciente P0013 será vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 13:59:40] S06 va a por vacunas.
+[06/01/2024 13:59:40] S06 ha conseguido vacunas.
+[06/01/2024 13:59:40] Paciente P0011 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 13:59:40] P0011 se dirige a la sala de observacion
+[06/01/2024 13:59:41] El paciente P0007 se va del hospital
+[06/01/2024 13:59:42] Paciente P0014 será vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 13:59:42] S05 va a por vacunas.
+[06/01/2024 13:59:42] S05 ha conseguido vacunas.
+[06/01/2024 13:59:42] Paciente P0012 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 13:59:42] P0012 se dirige a la sala de observacion
+[06/01/2024 13:59:43] El paciente P0009 se va del hospital
+[06/01/2024 13:59:43] El paciente P0008 se va del hospital
+[06/01/2024 13:59:44] Paciente P0013 ha sido vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 13:59:44] P0013 se dirige a la sala de observacion
+[06/01/2024 13:59:45] Paciente P0015 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 13:59:45] S01 va a por vacunas.
+[06/01/2024 13:59:45] S01 ha conseguido vacunas.
+[06/01/2024 13:59:46] Paciente P0014 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 13:59:46] P0014 se dirige a la sala de observacion
+[06/01/2024 13:59:47] Paciente P0016 será vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 13:59:47] S05 va a por vacunas.
+[06/01/2024 13:59:47] S05 ha conseguido vacunas.
+[06/01/2024 13:59:47] El paciente P0010 se va del hospital
+[06/01/2024 13:59:48] Paciente P0017 será vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 13:59:48] S06 va a por vacunas.
+[06/01/2024 13:59:48] S06 ha conseguido vacunas.
+[06/01/2024 13:59:48] A2 comienza su descanso.
+[06/01/2024 13:59:49] Paciente P0015 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 13:59:49] P0015 se dirige a la sala de observacion
+[06/01/2024 13:59:50] Paciente P0016 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 13:59:50] P0016 se dirige a la sala de observacion
+[06/01/2024 13:59:50] El paciente P0011 se va del hospital
+[06/01/2024 13:59:51] Paciente P0018 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 13:59:51] S01 va a por vacunas.
+[06/01/2024 13:59:51] S01 ha conseguido vacunas.
+[06/01/2024 13:59:52] Paciente P0017 ha sido vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 13:59:52] P0017 se dirige a la sala de observacion
+[06/01/2024 13:59:52] A2 termina su descanso.
+[06/01/2024 13:59:52] Paciente P0019 será vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 13:59:52] S05 va a por vacunas.
+[06/01/2024 13:59:52] S05 ha conseguido vacunas.
+[06/01/2024 13:59:52] El paciente P0012 se va del hospital
+[06/01/2024 13:59:54] Paciente P0020 será vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 13:59:54] S06 va a por vacunas.
+[06/01/2024 13:59:54] A1 comienza su descanso.
+[06/01/2024 13:59:54] S06 ha conseguido vacunas.
+[06/01/2024 13:59:54] El paciente P0013 se va del hospital
+[06/01/2024 13:59:55] Paciente P0018 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 13:59:55] P0018 se dirige a la sala de observacion
+[06/01/2024 13:59:55] Paciente P0019 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 13:59:55] P0019 se dirige a la sala de observacion
+[06/01/2024 13:59:56] El paciente P0014 se va del hospital
+[06/01/2024 13:59:59] Paciente P0020 ha sido vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 13:59:59] P0020 se dirige a la sala de observacion
+[06/01/2024 13:59:59] A1 termina su descanso.
+[06/01/2024 13:59:59] El paciente P0015 se va del hospital
+[06/01/2024 14:00:00] Paciente P0021 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:00:00] S01 va a por vacunas.
+[06/01/2024 14:00:00] S01 ha conseguido vacunas.
+[06/01/2024 14:00:00] El paciente P0016 se va del hospital
+[06/01/2024 14:00:00] Paciente P0022 será vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:00:00] S05 va a por vacunas.
+[06/01/2024 14:00:00] S05 ha conseguido vacunas.
+[06/01/2024 14:00:01] Paciente P0023 ha acudido sin cita.
+[06/01/2024 14:00:01] El paciente P0023 pide disculpas por venir sin cita y se marcha
+[06/01/2024 14:00:01] El paciente P0023 se va del hospital
+[06/01/2024 14:00:02] El paciente P0017 se va del hospital
+[06/01/2024 14:00:02] Paciente P0024 será vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:00:02] S06 va a por vacunas.
+[06/01/2024 14:00:02] S06 ha conseguido vacunas.
+[06/01/2024 14:00:04] Paciente P0021 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:00:04] P0021 se dirige a la sala de observacion
+[06/01/2024 14:00:04] Paciente P0025 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:00:04] S01 va a por vacunas.
+[06/01/2024 14:00:04] S01 ha conseguido vacunas.
+[06/01/2024 14:00:04] Paciente P0022 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:00:04] P0022 se dirige a la sala de observacion
+[06/01/2024 14:00:05] El paciente P0018 se va del hospital
+[06/01/2024 14:00:05] Paciente P0026 será vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:00:05] S05 va a por vacunas.
+[06/01/2024 14:00:05] S05 ha conseguido vacunas.
+[06/01/2024 14:00:05] El paciente P0019 se va del hospital
+[06/01/2024 14:00:06] Paciente P0024 ha sido vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:00:06] P0024 se dirige a la sala de observacion
+[06/01/2024 14:00:06] Paciente P0027 será vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:00:06] S06 va a por vacunas.
+[06/01/2024 14:00:06] S06 ha conseguido vacunas.
+[06/01/2024 14:00:08] Paciente P0025 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:00:08] P0025 se dirige a la sala de observacion
+[06/01/2024 14:00:08] Paciente P0028 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:00:08] S01 va a por vacunas.
+[06/01/2024 14:00:08] S01 ha conseguido vacunas.
+[06/01/2024 14:00:08] A2 comienza su descanso.
+[06/01/2024 14:00:09] El paciente P0020 se va del hospital
+[06/01/2024 14:00:10] Paciente P0029 ha acudido sin cita.
+[06/01/2024 14:00:10] El paciente P0029 pide disculpas por venir sin cita y se marcha
+[06/01/2024 14:00:10] El paciente P0029 se va del hospital
+[06/01/2024 14:00:10] Paciente P0026 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:00:10] P0026 se dirige a la sala de observacion
+[06/01/2024 14:00:11] Paciente P0027 ha sido vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:00:11] P0027 se dirige a la sala de observacion
+[06/01/2024 14:00:11] A2 termina su descanso.
+[06/01/2024 14:00:11] Paciente P0028 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:00:11] P0028 se dirige a la sala de observacion
+[06/01/2024 14:00:12] Paciente P0030 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:00:12] S01 va a por vacunas.
+[06/01/2024 14:00:12] S01 ha conseguido vacunas.
+[06/01/2024 14:00:12] A1 comienza su descanso.
+[06/01/2024 14:00:14] El paciente P0021 se va del hospital
+[06/01/2024 14:00:14] El paciente P0022 se va del hospital
+[06/01/2024 14:00:16] El paciente P0024 se va del hospital
+[06/01/2024 14:00:16] Paciente P0030 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:00:16] P0030 se dirige a la sala de observacion
+[06/01/2024 14:00:17] A1 termina su descanso.
+[06/01/2024 14:00:18] El paciente P0025 se va del hospital
+[06/01/2024 14:00:18] Paciente P0031 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:00:18] S01 va a por vacunas.
+[06/01/2024 14:00:18] S01 ha conseguido vacunas.
+[06/01/2024 14:00:19] Paciente P0032 será vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:00:19] S05 va a por vacunas.
+[06/01/2024 14:00:19] S05 ha conseguido vacunas.
+[06/01/2024 14:00:20] Paciente P0033 será vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:00:20] S06 va a por vacunas.
+[06/01/2024 14:00:20] S06 ha conseguido vacunas.
+[06/01/2024 14:00:20] El paciente P0026 se va del hospital
+[06/01/2024 14:00:20] Paciente P0034 será vacunado en el puestoSVP4 por el sanitario S02
+[06/01/2024 14:00:20] S02 va a por vacunas.
+[06/01/2024 14:00:20] S02 ha conseguido vacunas.
+[06/01/2024 14:00:21] El paciente P0027 se va del hospital
+[06/01/2024 14:00:21] El paciente P0028 se va del hospital
+[06/01/2024 14:00:21] Paciente P0035 será vacunado en el puestoSVP5 por el sanitario S04
+[06/01/2024 14:00:21] S04 va a por vacunas.
+[06/01/2024 14:00:21] S04 ha conseguido vacunas.
+[06/01/2024 14:00:21] Paciente P0031 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:00:21] P0031 se dirige a la sala de observacion
+[06/01/2024 14:00:22] Paciente P0036 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:00:22] S01 va a por vacunas.
+[06/01/2024 14:00:22] S01 ha conseguido vacunas.
+[06/01/2024 14:00:24] Paciente P0032 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:00:24] P0032 se dirige a la sala de observacion
+[06/01/2024 14:00:24] Paciente P0034 ha sido vacunado en el puestoSVP4 por el sanitario S02
+[06/01/2024 14:00:24] P0034 se dirige a la sala de observacion
+[06/01/2024 14:00:24] Paciente P0033 ha sido vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:00:24] P0033 se dirige a la sala de observacion
+[06/01/2024 14:00:24] Paciente P0037 será vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:00:24] S05 va a por vacunas.
+[06/01/2024 14:00:24] S05 ha conseguido vacunas.
+[06/01/2024 14:00:25] Paciente P0035 ha sido vacunado en el puestoSVP5 por el sanitario S04
+[06/01/2024 14:00:25] P0035 se dirige a la sala de observacion
+[06/01/2024 14:00:25] A2 comienza su descanso.
+[06/01/2024 14:00:25] Paciente P0038 será vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:00:25] S06 va a por vacunas.
+[06/01/2024 14:00:25] S06 ha conseguido vacunas.
+[06/01/2024 14:00:26] El paciente P0030 se va del hospital
+[06/01/2024 14:00:27] Paciente P0036 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:00:27] P0036 se dirige a la sala de observacion
+[06/01/2024 14:00:27] Paciente P0039 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:00:27] S01 va a por vacunas.
+[06/01/2024 14:00:27] S01 ha conseguido vacunas.
+[06/01/2024 14:00:28] Paciente P0037 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:00:28] P0037 se dirige a la sala de observacion
+[06/01/2024 14:00:28] A2 termina su descanso.
+[06/01/2024 14:00:28] Paciente P0040 será vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:00:28] S05 va a por vacunas.
+[06/01/2024 14:00:28] A1 comienza su descanso.
+[06/01/2024 14:00:28] S05 ha conseguido vacunas.
+[06/01/2024 14:00:29] Paciente P0038 ha sido vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:00:29] P0038 se dirige a la sala de observacion
+[06/01/2024 14:00:30] Paciente P0039 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:00:30] P0039 se dirige a la sala de observacion
+[06/01/2024 14:00:31] El paciente P0031 se va del hospital
+[06/01/2024 14:00:32] A1 termina su descanso.
+[06/01/2024 14:00:33] Paciente P0041 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:00:33] S01 va a por vacunas.
+[06/01/2024 14:00:33] S01 ha conseguido vacunas.
+[06/01/2024 14:00:33] Paciente P0040 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:00:33] P0040 se dirige a la sala de observacion
+[06/01/2024 14:00:34] Paciente P0042 será vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:00:34] S05 va a por vacunas.
+[06/01/2024 14:00:34] S05 ha conseguido vacunas.
+[06/01/2024 14:00:34] El paciente P0032 se va del hospital
+[06/01/2024 14:00:34] El paciente P0034 se va del hospital
+[06/01/2024 14:00:34] Paciente P0043 será vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:00:34] S06 va a por vacunas.
+[06/01/2024 14:00:34] S06 ha conseguido vacunas.
+[06/01/2024 14:00:34] El paciente P0033 se va del hospital
+[06/01/2024 14:00:35] El paciente P0035 se va del hospital
+[06/01/2024 14:00:37] Paciente P0042 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:00:37] P0042 se dirige a la sala de observacion
+[06/01/2024 14:00:37] El paciente P0036 se va del hospital
+[06/01/2024 14:00:37] Paciente P0044 será vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:00:37] S05 va a por vacunas.
+[06/01/2024 14:00:37] S05 ha conseguido vacunas.
+[06/01/2024 14:00:37] Paciente P0041 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:00:37] P0041 se dirige a la sala de observacion
+[06/01/2024 14:00:37] S01 comienza su descanso.
+[06/01/2024 14:00:38] El paciente P0037 se va del hospital
+[06/01/2024 14:00:38] Paciente P0045 será vacunado en el puestoSVP4 por el sanitario S02
+[06/01/2024 14:00:38] S02 va a por vacunas.
+[06/01/2024 14:00:38] S02 ha conseguido vacunas.
+[06/01/2024 14:00:39] Paciente P0043 ha sido vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:00:39] P0043 se dirige a la sala de observacion
+[06/01/2024 14:00:39] El paciente P0038 se va del hospital
+[06/01/2024 14:00:40] El paciente P0039 se va del hospital
+[06/01/2024 14:00:40] Paciente P0046 ha acudido sin cita.
+[06/01/2024 14:00:40] El paciente P0046 pide disculpas por venir sin cita y se marcha
+[06/01/2024 14:00:40] El paciente P0046 se va del hospital
+[06/01/2024 14:00:40] Paciente P0044 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:00:40] P0044 se dirige a la sala de observacion
+[06/01/2024 14:00:41] Paciente P0047 será vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:00:41] S05 va a por vacunas.
+[06/01/2024 14:00:41] S05 ha conseguido vacunas.
+[06/01/2024 14:00:43] S01 termina su descanso.
+[06/01/2024 14:00:43] Paciente P0045 ha sido vacunado en el puestoSVP4 por el sanitario S02
+[06/01/2024 14:00:43] P0045 se dirige a la sala de observacion
+[06/01/2024 14:00:43] El paciente P0040 se va del hospital
+[06/01/2024 14:00:43] Paciente P0048 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:00:43] S01 va a por vacunas.
+[06/01/2024 14:00:43] S01 ha conseguido vacunas.
+[06/01/2024 14:00:43] A2 comienza su descanso.
+[06/01/2024 14:00:45] Paciente P0049 será vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:00:45] S06 va a por vacunas.
+[06/01/2024 14:00:45] S06 ha conseguido vacunas.
+[06/01/2024 14:00:45] A2 termina su descanso.
+[06/01/2024 14:00:45] Paciente P0047 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:00:45] P0047 se dirige a la sala de observacion
+[06/01/2024 14:00:45] S05 comienza su descanso.
+[06/01/2024 14:00:47] El paciente P0042 se va del hospital
+[06/01/2024 14:00:47] El paciente P0041 se va del hospital
+[06/01/2024 14:00:47] Paciente P0050 será vacunado en el puestoSVP4 por el sanitario S02
+[06/01/2024 14:00:47] S02 va a por vacunas.
+[06/01/2024 14:00:47] A1 comienza su descanso.
+[06/01/2024 14:00:47] S02 ha conseguido vacunas.
+[06/01/2024 14:00:48] Paciente P0048 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:00:48] P0048 se dirige a la sala de observacion
+[06/01/2024 14:00:49] El paciente P0043 se va del hospital
+[06/01/2024 14:00:49] Paciente P0049 ha sido vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:00:49] P0049 se dirige a la sala de observacion
+[06/01/2024 14:00:50] El paciente P0044 se va del hospital
+[06/01/2024 14:00:51] A1 termina su descanso.
+[06/01/2024 14:00:51] Paciente P0050 ha sido vacunado en el puestoSVP4 por el sanitario S02
+[06/01/2024 14:00:51] P0050 se dirige a la sala de observacion
+[06/01/2024 14:00:52] Paciente P0051 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:00:52] S01 va a por vacunas.
+[06/01/2024 14:00:52] S01 ha conseguido vacunas.
+[06/01/2024 14:00:52] S05 termina su descanso.
+[06/01/2024 14:00:52] Paciente P0052 será vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:00:52] S05 va a por vacunas.
+[06/01/2024 14:00:52] S05 ha conseguido vacunas.
+[06/01/2024 14:00:53] Paciente P0053 será vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:00:53] S06 va a por vacunas.
+[06/01/2024 14:00:53] S06 ha conseguido vacunas.
+[06/01/2024 14:00:53] El paciente P0045 se va del hospital
+[06/01/2024 14:00:54] Paciente P0054 será vacunado en el puestoSVP4 por el sanitario S02
+[06/01/2024 14:00:54] S02 va a por vacunas.
+[06/01/2024 14:00:54] S02 ha conseguido vacunas.
+[06/01/2024 14:00:55] Paciente P0055 será vacunado en el puestoSVP5 por el sanitario S04
+[06/01/2024 14:00:55] S04 va a por vacunas.
+[06/01/2024 14:00:55] S04 ha conseguido vacunas.
+[06/01/2024 14:00:55] Paciente P0052 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:00:55] P0052 se dirige a la sala de observacion
+[06/01/2024 14:00:55] El paciente P0047 se va del hospital
+[06/01/2024 14:00:56] Paciente P0051 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:00:56] P0051 se dirige a la sala de observacion
+[06/01/2024 14:00:57] Paciente P0053 ha sido vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:00:57] P0053 se dirige a la sala de observacion
+[06/01/2024 14:00:57] Paciente P0056 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:00:57] S01 va a por vacunas.
+[06/01/2024 14:00:57] S01 ha conseguido vacunas.
+[06/01/2024 14:00:58] El paciente P0048 se va del hospital
+[06/01/2024 14:00:58] Paciente P0054 ha sido vacunado en el puestoSVP4 por el sanitario S02
+[06/01/2024 14:00:58] P0054 se dirige a la sala de observacion
+[06/01/2024 14:00:59] Paciente P0057 será vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:00:59] S05 va a por vacunas.
+[06/01/2024 14:00:59] S05 ha conseguido vacunas.
+[06/01/2024 14:00:59] El paciente P0049 se va del hospital
+[06/01/2024 14:00:59] A2 comienza su descanso.
+[06/01/2024 14:01:00] Paciente P0055 ha sido vacunado en el puestoSVP5 por el sanitario S04
+[06/01/2024 14:01:00] P0055 se dirige a la sala de observacion
+[06/01/2024 14:01:01] Paciente P0056 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:01:01] P0056 se dirige a la sala de observacion
+[06/01/2024 14:01:01] A2 termina su descanso.
+[06/01/2024 14:01:01] El paciente P0050 se va del hospital
+[06/01/2024 14:01:02] Paciente P0058 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:01:02] S01 va a por vacunas.
+[06/01/2024 14:01:02] S01 ha conseguido vacunas.
+[06/01/2024 14:01:04] Paciente P0059 será vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:01:04] S06 va a por vacunas.
+[06/01/2024 14:01:04] S06 ha conseguido vacunas.
+[06/01/2024 14:01:04] Paciente P0057 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:01:04] P0057 se dirige a la sala de observacion
+[06/01/2024 14:01:05] El paciente P0052 se va del hospital
+[06/01/2024 14:01:06] Paciente P0060 será vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:01:06] S05 va a por vacunas.
+[06/01/2024 14:01:06] A1 comienza su descanso.
+[06/01/2024 14:01:06] S05 ha conseguido vacunas.
+[06/01/2024 14:01:06] El paciente P0051 se va del hospital
+[06/01/2024 14:01:06] Paciente P0058 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:01:06] P0058 se dirige a la sala de observacion
+[06/01/2024 14:01:07] El paciente P0053 se va del hospital
+[06/01/2024 14:01:08] Paciente P0059 ha sido vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:01:08] P0059 se dirige a la sala de observacion
+[06/01/2024 14:01:08] El paciente P0054 se va del hospital
+[06/01/2024 14:01:09] Paciente P0060 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:01:09] P0060 se dirige a la sala de observacion
+[06/01/2024 14:01:09] A1 termina su descanso.
+[06/01/2024 14:01:09] S01 va a por vacunas.
+[06/01/2024 14:01:09] Paciente P0061 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:01:09] S01 ha conseguido vacunas.
+[06/01/2024 14:01:10] Paciente P0062 será vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:01:10] S05 va a por vacunas.
+[06/01/2024 14:01:10] S05 ha conseguido vacunas.
+[06/01/2024 14:01:10] El paciente P0055 se va del hospital
+[06/01/2024 14:01:11] El paciente P0056 se va del hospital
+[06/01/2024 14:01:11] Paciente P0063 será vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:01:11] S06 va a por vacunas.
+[06/01/2024 14:01:11] S06 ha conseguido vacunas.
+[06/01/2024 14:01:13] Paciente P0061 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:01:13] P0061 se dirige a la sala de observacion
+[06/01/2024 14:01:14] Paciente P0064 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:01:14] S01 va a por vacunas.
+[06/01/2024 14:01:14] S01 ha conseguido vacunas.
+[06/01/2024 14:01:14] El paciente P0057 se va del hospital
+[06/01/2024 14:01:14] Paciente P0062 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:01:14] P0062 se dirige a la sala de observacion
+[06/01/2024 14:01:15] Paciente P0063 ha sido vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:01:15] P0063 se dirige a la sala de observacion
+[06/01/2024 14:01:15] S06 comienza su descanso.
+[06/01/2024 14:01:15] Paciente P0065 será vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:01:15] S05 va a por vacunas.
+[06/01/2024 14:01:15] S05 ha conseguido vacunas.
+[06/01/2024 14:01:16] El paciente P0058 se va del hospital
+[06/01/2024 14:01:16] A2 comienza su descanso.
+[06/01/2024 14:01:17] Paciente P0064 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:01:17] P0064 se dirige a la sala de observacion
+[06/01/2024 14:01:18] El paciente P0059 ha tenido una reacción
+[06/01/2024 14:01:18] Paciente P0066 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:01:18] S01 va a por vacunas.
+[06/01/2024 14:01:18] S01 ha conseguido vacunas.
+[06/01/2024 14:01:18] A2 termina su descanso.
+[06/01/2024 14:01:19] El paciente P0060 se va del hospital
+[06/01/2024 14:01:20] Paciente P0065 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:01:20] P0065 se dirige a la sala de observacion
+[06/01/2024 14:01:21] Paciente P0067 será vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:01:21] S05 va a por vacunas.
+[06/01/2024 14:01:21] S05 ha conseguido vacunas.
+[06/01/2024 14:01:22] Paciente P0066 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:01:22] P0066 se dirige a la sala de observacion
+[06/01/2024 14:01:22] S06 termina su descanso.
+[06/01/2024 14:01:23] El paciente P0061 se va del hospital
+[06/01/2024 14:01:24] Paciente P0068 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:01:24] S01 va a por vacunas.
+[06/01/2024 14:01:24] S01 ha conseguido vacunas.
+[06/01/2024 14:01:24] El paciente P0062 se va del hospital
+[06/01/2024 14:01:24] Paciente P0067 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:01:24] P0067 se dirige a la sala de observacion
+[06/01/2024 14:01:25] El paciente P0063 se va del hospital
+[06/01/2024 14:01:26] Paciente P0069 será vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:01:26] S05 va a por vacunas.
+[06/01/2024 14:01:26] S05 ha conseguido vacunas.
+[06/01/2024 14:01:27] El paciente P0064 se va del hospital
+[06/01/2024 14:01:27] La reacción del Paciente P0059 ha sido atendida por el sanitario S06
+[06/01/2024 14:01:27] El paciente P0059 se va del hospital
+[06/01/2024 14:01:29] Paciente P0070 será vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:01:29] S06 va a por vacunas.
+[06/01/2024 14:01:29] A1 comienza su descanso.
+[06/01/2024 14:01:29] S06 ha conseguido vacunas.
+[06/01/2024 14:01:29] Paciente P0068 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:01:29] P0068 se dirige a la sala de observacion
+[06/01/2024 14:01:30] Paciente P0069 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:01:30] P0069 se dirige a la sala de observacion
+[06/01/2024 14:01:30] El paciente P0065 se va del hospital
+[06/01/2024 14:01:32] Paciente P0070 ha sido vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:01:32] P0070 se dirige a la sala de observacion
+[06/01/2024 14:01:32] El paciente P0066 se va del hospital
+[06/01/2024 14:01:33] A1 termina su descanso.
+[06/01/2024 14:01:34] A2 comienza su descanso.
+[06/01/2024 14:01:34] Paciente P0071 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:01:34] S01 va a por vacunas.
+[06/01/2024 14:01:34] S01 ha conseguido vacunas.
+[06/01/2024 14:01:34] El paciente P0067 se va del hospital
+[06/01/2024 14:01:35] Paciente P0072 será vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:01:35] S05 va a por vacunas.
+[06/01/2024 14:01:35] S05 ha conseguido vacunas.
+[06/01/2024 14:01:35] S06 va a por vacunas.
+[06/01/2024 14:01:35] Paciente P0073 será vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:01:35] S06 ha conseguido vacunas.
+[06/01/2024 14:01:36] Paciente P0074 será vacunado en el puestoSVP4 por el sanitario S02
+[06/01/2024 14:01:36] S02 va a por vacunas.
+[06/01/2024 14:01:36] S02 ha conseguido vacunas.
+[06/01/2024 14:01:37] A2 termina su descanso.
+[06/01/2024 14:01:37] Paciente P0071 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:01:37] P0071 se dirige a la sala de observacion
+[06/01/2024 14:01:38] Paciente P0072 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:01:38] P0072 se dirige a la sala de observacion
+[06/01/2024 14:01:38] Paciente P0075 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:01:38] S01 va a por vacunas.
+[06/01/2024 14:01:38] S01 ha conseguido vacunas.
+[06/01/2024 14:01:38] Paciente P0073 ha sido vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:01:38] P0073 se dirige a la sala de observacion
+[06/01/2024 14:01:39] El paciente P0068 se va del hospital
+[06/01/2024 14:01:40] El paciente P0069 se va del hospital
+[06/01/2024 14:01:40] Paciente P0076 será vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:01:40] S05 va a por vacunas.
+[06/01/2024 14:01:40] S05 ha conseguido vacunas.
+[06/01/2024 14:01:41] Paciente P0074 ha sido vacunado en el puestoSVP4 por el sanitario S02
+[06/01/2024 14:01:41] P0074 se dirige a la sala de observacion
+[06/01/2024 14:01:41] Paciente P0075 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:01:41] P0075 se dirige a la sala de observacion
+[06/01/2024 14:01:42] El paciente P0070 se va del hospital
+[06/01/2024 14:01:42] Paciente P0077 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:01:42] S01 va a por vacunas.
+[06/01/2024 14:01:42] S01 ha conseguido vacunas.
+[06/01/2024 14:01:44] Paciente P0078 será vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:01:44] S06 va a por vacunas.
+[06/01/2024 14:01:44] S06 ha conseguido vacunas.
+[06/01/2024 14:01:44] Paciente P0076 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:01:44] P0076 se dirige a la sala de observacion
+[06/01/2024 14:01:45] Paciente P0079 será vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:01:45] S05 va a por vacunas.
+[06/01/2024 14:01:45] S05 ha conseguido vacunas.
+[06/01/2024 14:01:45] Paciente P0077 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:01:45] P0077 se dirige a la sala de observacion
+[06/01/2024 14:01:47] Paciente P0078 ha sido vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:01:47] P0078 se dirige a la sala de observacion
+[06/01/2024 14:01:47] El paciente P0071 se va del hospital
+[06/01/2024 14:01:48] El paciente P0072 se va del hospital
+[06/01/2024 14:01:48] Paciente P0080 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:01:48] S01 va a por vacunas.
+[06/01/2024 14:01:48] A1 comienza su descanso.
+[06/01/2024 14:01:48] S01 ha conseguido vacunas.
+[06/01/2024 14:01:48] El paciente P0073 se va del hospital
+[06/01/2024 14:01:49] Paciente P0079 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:01:49] P0079 se dirige a la sala de observacion
+[06/01/2024 14:01:51] El paciente P0074 se va del hospital
+[06/01/2024 14:01:51] A1 termina su descanso.
+[06/01/2024 14:01:51] El paciente P0075 se va del hospital
+[06/01/2024 14:01:52] Paciente P0081 será vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:01:52] S05 va a por vacunas.
+[06/01/2024 14:01:52] S05 ha conseguido vacunas.
+[06/01/2024 14:01:53] Paciente P0082 ha acudido sin cita.
+[06/01/2024 14:01:53] El paciente P0082 pide disculpas por venir sin cita y se marcha
+[06/01/2024 14:01:53] El paciente P0082 se va del hospital
+[06/01/2024 14:01:53] Paciente P0080 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:01:53] P0080 se dirige a la sala de observacion
+[06/01/2024 14:01:53] A2 comienza su descanso.
+[06/01/2024 14:01:53] Paciente P0083 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:01:53] S01 va a por vacunas.
+[06/01/2024 14:01:53] S01 ha conseguido vacunas.
+[06/01/2024 14:01:54] El paciente P0076 se va del hospital
+[06/01/2024 14:01:55] El paciente P0077 se va del hospital
+[06/01/2024 14:01:56] Paciente P0084 será vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:01:56] S06 va a por vacunas.
+[06/01/2024 14:01:56] S06 ha conseguido vacunas.
+[06/01/2024 14:01:56] Paciente P0081 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:01:56] P0081 se dirige a la sala de observacion
+[06/01/2024 14:01:56] A2 termina su descanso.
+[06/01/2024 14:01:57] El paciente P0078 se va del hospital
+[06/01/2024 14:01:57] Paciente P0083 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:01:57] P0083 se dirige a la sala de observacion
+[06/01/2024 14:01:58] Paciente P0085 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:01:58] S01 va a por vacunas.
+[06/01/2024 14:01:58] S01 ha conseguido vacunas.
+[06/01/2024 14:01:59] El paciente P0079 se va del hospital
+[06/01/2024 14:02:00] Paciente P0084 ha sido vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:02:00] P0084 se dirige a la sala de observacion
+[06/01/2024 14:02:00] Paciente P0086 será vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:02:00] S05 va a por vacunas.
+[06/01/2024 14:02:00] S05 ha conseguido vacunas.
+[06/01/2024 14:02:02] Paciente P0087 será vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:02:02] S06 va a por vacunas.
+[06/01/2024 14:02:02] S06 ha conseguido vacunas.
+[06/01/2024 14:02:03] El paciente P0080 ha tenido una reacción
+[06/01/2024 14:02:03] Paciente P0086 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:02:03] P0086 se dirige a la sala de observacion
+[06/01/2024 14:02:03] Paciente P0085 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:02:03] P0085 se dirige a la sala de observacion
+[06/01/2024 14:02:05] Paciente P0088 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:02:05] S01 va a por vacunas.
+[06/01/2024 14:02:05] S01 ha conseguido vacunas.
+[06/01/2024 14:02:06] Paciente P0087 ha sido vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:02:06] P0087 se dirige a la sala de observacion
+[06/01/2024 14:02:06] Paciente P0089 será vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:02:06] S05 va a por vacunas.
+[06/01/2024 14:02:06] S05 ha conseguido vacunas.
+[06/01/2024 14:02:06] El paciente P0081 se va del hospital
+[06/01/2024 14:02:07] El paciente P0083 se va del hospital
+[06/01/2024 14:02:08] Paciente P0090 será vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:02:08] S06 va a por vacunas.
+[06/01/2024 14:02:08] S06 ha conseguido vacunas.
+[06/01/2024 14:02:08] A1 comienza su descanso.
+[06/01/2024 14:02:10] Paciente P0088 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:02:10] P0088 se dirige a la sala de observacion
+[06/01/2024 14:02:10] S01 comienza su descanso.
+[06/01/2024 14:02:10] El paciente P0084 se va del hospital
+[06/01/2024 14:02:10] A2 comienza su descanso.
+[06/01/2024 14:02:10] Paciente P0089 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:02:10] P0089 se dirige a la sala de observacion
+[06/01/2024 14:02:12] A1 termina su descanso.
+[06/01/2024 14:02:12] Paciente P0090 ha sido vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:02:12] P0090 se dirige a la sala de observacion
+[06/01/2024 14:02:12] S05 va a por vacunas.
+[06/01/2024 14:02:12] Paciente P0091 será vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:02:12] S05 ha conseguido vacunas.
+[06/01/2024 14:02:13] El paciente P0086 se va del hospital
+[06/01/2024 14:02:13] El paciente P0085 se va del hospital
+[06/01/2024 14:02:13] Paciente P0092 será vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:02:13] S06 va a por vacunas.
+[06/01/2024 14:02:13] S06 ha conseguido vacunas.
+[06/01/2024 14:02:14] A2 termina su descanso.
+[06/01/2024 14:02:14] Paciente P0093 será vacunado en el puestoSVP4 por el sanitario S02
+[06/01/2024 14:02:14] S02 va a por vacunas.
+[06/01/2024 14:02:14] S02 ha conseguido vacunas.
+[06/01/2024 14:02:15] Paciente P0094 será vacunado en el puestoSVP5 por el sanitario S04
+[06/01/2024 14:02:15] S04 va a por vacunas.
+[06/01/2024 14:02:15] S04 ha conseguido vacunas.
+[06/01/2024 14:02:15] S01 termina su descanso.
+[06/01/2024 14:02:16] Paciente P0091 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:02:16] P0091 se dirige a la sala de observacion
+[06/01/2024 14:02:16] El paciente P0087 se va del hospital
+[06/01/2024 14:02:16] S05 va a por vacunas.
+[06/01/2024 14:02:16] Paciente P0095 será vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:02:16] S05 ha conseguido vacunas.
+[06/01/2024 14:02:17] Paciente P0092 ha sido vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:02:17] P0092 se dirige a la sala de observacion
+[06/01/2024 14:02:18] Paciente P0096 será vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:02:18] S06 va a por vacunas.
+[06/01/2024 14:02:18] S06 ha conseguido vacunas.
+[06/01/2024 14:02:18] P0094 se dirige a la sala de observacion
+[06/01/2024 14:02:18] Paciente P0094 ha sido vacunado en el puestoSVP5 por el sanitario S04
+[06/01/2024 14:02:19] Paciente P0093 ha sido vacunado en el puestoSVP4 por el sanitario S02
+[06/01/2024 14:02:19] P0093 se dirige a la sala de observacion
+[06/01/2024 14:02:19] Paciente P0097 ha acudido sin cita.
+[06/01/2024 14:02:19] El paciente P0097 pide disculpas por venir sin cita y se marcha
+[06/01/2024 14:02:19] El paciente P0097 se va del hospital
+[06/01/2024 14:02:19] Paciente P0095 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:02:19] P0095 se dirige a la sala de observacion
+[06/01/2024 14:02:19] S05 comienza su descanso.
+[06/01/2024 14:02:20] El paciente P0088 se va del hospital
+[06/01/2024 14:02:20] La reacción del Paciente P0080 ha sido atendida por el sanitario S01
+[06/01/2024 14:02:20] El paciente P0080 se va del hospital
+[06/01/2024 14:02:20] El paciente P0089 se va del hospital
+[06/01/2024 14:02:21] Paciente P0098 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:02:21] S01 va a por vacunas.
+[06/01/2024 14:02:21] S01 ha conseguido vacunas.
+[06/01/2024 14:02:21] Paciente P0096 ha sido vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:02:21] P0096 se dirige a la sala de observacion
+[06/01/2024 14:02:22] El paciente P0090 se va del hospital
+[06/01/2024 14:02:23] Paciente P0099 será vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:02:23] S06 va a por vacunas.
+[06/01/2024 14:02:23] S06 ha conseguido vacunas.
+[06/01/2024 14:02:24] Paciente P0098 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:02:24] P0098 se dirige a la sala de observacion
+[06/01/2024 14:02:26] El paciente P0091 se va del hospital
+[06/01/2024 14:02:26] S05 termina su descanso.
+[06/01/2024 14:02:26] Paciente P0100 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:02:26] S01 va a por vacunas.
+[06/01/2024 14:02:26] S01 ha conseguido vacunas.
+[06/01/2024 14:02:26] A1 comienza su descanso.
+[06/01/2024 14:02:27] Paciente P0099 ha sido vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:02:27] P0099 se dirige a la sala de observacion
+[06/01/2024 14:02:27] El paciente P0092 se va del hospital
+[06/01/2024 14:02:28] A2 comienza su descanso.
+[06/01/2024 14:02:28] El paciente P0094 se va del hospital
+[06/01/2024 14:02:29] El paciente P0093 se va del hospital
+[06/01/2024 14:02:29] El paciente P0095 se va del hospital
+[06/01/2024 14:02:30] A1 termina su descanso.
+[06/01/2024 14:02:30] Paciente P0100 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:02:30] P0100 se dirige a la sala de observacion
+[06/01/2024 14:02:31] Paciente P0101 ha acudido sin cita.
+[06/01/2024 14:02:31] El paciente P0101 pide disculpas por venir sin cita y se marcha
+[06/01/2024 14:02:31] El paciente P0101 se va del hospital
+[06/01/2024 14:02:31] El paciente P0096 ha tenido una reacción
+[06/01/2024 14:02:31] A2 termina su descanso.
+[06/01/2024 14:02:31] Paciente P0102 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:02:31] S01 va a por vacunas.
+[06/01/2024 14:02:31] S01 ha conseguido vacunas.
+[06/01/2024 14:02:32] Paciente P0103 será vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:02:32] S05 va a por vacunas.
+[06/01/2024 14:02:32] S05 ha conseguido vacunas.
+[06/01/2024 14:02:34] Paciente P0104 será vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:02:34] S06 va a por vacunas.
+[06/01/2024 14:02:34] S06 ha conseguido vacunas.
+[06/01/2024 14:02:34] El paciente P0098 se va del hospital
+[06/01/2024 14:02:35] Paciente P0102 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:02:35] P0102 se dirige a la sala de observacion
+[06/01/2024 14:02:36] Paciente P0103 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:02:36] P0103 se dirige a la sala de observacion
+[06/01/2024 14:02:36] Paciente P0105 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:02:36] S01 va a por vacunas.
+[06/01/2024 14:02:36] S01 ha conseguido vacunas.
+[06/01/2024 14:02:37] El paciente P0099 se va del hospital
+[06/01/2024 14:02:38] Paciente P0106 será vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:02:38] S05 va a por vacunas.
+[06/01/2024 14:02:38] S05 ha conseguido vacunas.
+[06/01/2024 14:02:38] Paciente P0104 ha sido vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:02:38] P0104 se dirige a la sala de observacion
+[06/01/2024 14:02:40] El paciente P0100 se va del hospital
+[06/01/2024 14:02:40] S06 va a por vacunas.
+[06/01/2024 14:02:40] S06 ha conseguido vacunas.
+[06/01/2024 14:02:40] Paciente P0107 será vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:02:41] Paciente P0105 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:02:41] P0105 se dirige a la sala de observacion
+[06/01/2024 14:02:41] Paciente P0108 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:02:41] S01 va a por vacunas.
+[06/01/2024 14:02:41] S01 ha conseguido vacunas.
+[06/01/2024 14:02:43] Paciente P0106 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:02:43] P0106 se dirige a la sala de observacion
+[06/01/2024 14:02:44] Paciente P0109 será vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:02:44] S05 va a por vacunas.
+[06/01/2024 14:02:44] S05 ha conseguido vacunas.
+[06/01/2024 14:02:44] Paciente P0107 ha sido vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:02:44] P0107 se dirige a la sala de observacion
+[06/01/2024 14:02:45] Paciente P0110 será vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:02:45] S06 va a por vacunas.
+[06/01/2024 14:02:45] S06 ha conseguido vacunas.
+[06/01/2024 14:02:45] A1 comienza su descanso.
+[06/01/2024 14:02:45] El paciente P0102 se va del hospital
+[06/01/2024 14:02:46] El paciente P0103 se va del hospital
+[06/01/2024 14:02:46] Paciente P0108 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:02:46] P0108 se dirige a la sala de observacion
+[06/01/2024 14:02:47] A2 comienza su descanso.
+[06/01/2024 14:02:48] A1 termina su descanso.
+[06/01/2024 14:02:48] El paciente P0104 se va del hospital
+[06/01/2024 14:02:48] Paciente P0109 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:02:48] P0109 se dirige a la sala de observacion
+[06/01/2024 14:02:49] Paciente P0111 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:02:49] S01 va a por vacunas.
+[06/01/2024 14:02:49] S01 ha conseguido vacunas.
+[06/01/2024 14:02:49] Paciente P0110 ha sido vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:02:49] P0110 se dirige a la sala de observacion
+[06/01/2024 14:02:50] Paciente P0112 será vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:02:50] S05 va a por vacunas.
+[06/01/2024 14:02:50] S05 ha conseguido vacunas.
+[06/01/2024 14:02:51] A2 termina su descanso.
+[06/01/2024 14:02:51] El paciente P0105 ha tenido una reacción
+[06/01/2024 14:02:52] Paciente P0113 será vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:02:52] S06 va a por vacunas.
+[06/01/2024 14:02:52] S06 ha conseguido vacunas.
+[06/01/2024 14:02:53] El paciente P0106 se va del hospital
+[06/01/2024 14:02:53] Paciente P0111 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:02:53] P0111 se dirige a la sala de observacion
+[06/01/2024 14:02:54] El paciente P0107 se va del hospital
+[06/01/2024 14:02:54] Paciente P0112 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:02:54] P0112 se dirige a la sala de observacion
+[06/01/2024 14:02:55] Paciente P0114 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:02:55] S01 va a por vacunas.
+[06/01/2024 14:02:55] S01 ha conseguido vacunas.
+[06/01/2024 14:02:56] Paciente P0113 ha sido vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:02:56] P0113 se dirige a la sala de observacion
+[06/01/2024 14:02:56] El paciente P0108 se va del hospital
+[06/01/2024 14:02:57] Paciente P0115 ha acudido sin cita.
+[06/01/2024 14:02:57] El paciente P0115 pide disculpas por venir sin cita y se marcha
+[06/01/2024 14:02:57] El paciente P0115 se va del hospital
+[06/01/2024 14:02:58] El paciente P0109 se va del hospital
+[06/01/2024 14:02:58] Paciente P0114 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:02:58] P0114 se dirige a la sala de observacion
+[06/01/2024 14:02:59] Paciente P0116 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:02:59] S01 va a por vacunas.
+[06/01/2024 14:02:59] S01 ha conseguido vacunas.
+[06/01/2024 14:02:59] El paciente P0110 se va del hospital
+[06/01/2024 14:03:02] Paciente P0117 será vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:03:02] S05 va a por vacunas.
+[06/01/2024 14:03:02] S05 ha conseguido vacunas.
+[06/01/2024 14:03:02] Paciente P0116 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:03:02] P0116 se dirige a la sala de observacion
+[06/01/2024 14:03:03] Paciente P0118 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:03:03] S01 va a por vacunas.
+[06/01/2024 14:03:03] S01 ha conseguido vacunas.
+[06/01/2024 14:03:03] El paciente P0111 ha tenido una reacción
+[06/01/2024 14:03:04] El paciente P0112 se va del hospital
+[06/01/2024 14:03:05] A2 comienza su descanso.
+[06/01/2024 14:03:05] Paciente P0119 será vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:03:05] S06 va a por vacunas.
+[06/01/2024 14:03:05] S06 ha conseguido vacunas.
+[06/01/2024 14:03:06] El paciente P0113 se va del hospital
+[06/01/2024 14:03:07] A2 termina su descanso.
+[06/01/2024 14:03:07] Paciente P0117 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:03:07] P0117 se dirige a la sala de observacion
+[06/01/2024 14:03:07] Paciente P0120 será vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:03:07] S05 va a por vacunas.
+[06/01/2024 14:03:07] A1 comienza su descanso.
+[06/01/2024 14:03:07] S05 ha conseguido vacunas.
+[06/01/2024 14:03:08] Paciente P0118 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:03:08] P0118 se dirige a la sala de observacion
+[06/01/2024 14:03:08] El paciente P0114 se va del hospital
+[06/01/2024 14:03:09] Paciente P0119 ha sido vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:03:09] P0119 se dirige a la sala de observacion
+[06/01/2024 14:03:10] A1 termina su descanso.
+[06/01/2024 14:03:11] Paciente P0121 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:03:11] S01 va a por vacunas.
+[06/01/2024 14:03:11] S01 ha conseguido vacunas.
+[06/01/2024 14:03:12] Paciente P0120 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:03:12] P0120 se dirige a la sala de observacion
+[06/01/2024 14:03:12] El paciente P0116 se va del hospital
+[06/01/2024 14:03:13] Paciente P0122 será vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:03:13] S05 va a por vacunas.
+[06/01/2024 14:03:13] S05 ha conseguido vacunas.
+[06/01/2024 14:03:14] Paciente P0123 será vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:03:14] S06 va a por vacunas.
+[06/01/2024 14:03:14] S06 ha conseguido vacunas.
+[06/01/2024 14:03:15] Paciente P0121 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:03:15] P0121 se dirige a la sala de observacion
+[06/01/2024 14:03:17] S01 va a por vacunas.
+[06/01/2024 14:03:17] S01 ha conseguido vacunas.
+[06/01/2024 14:03:17] Paciente P0124 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:03:17] El paciente P0117 se va del hospital
+[06/01/2024 14:03:17] Paciente P0122 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:03:17] P0122 se dirige a la sala de observacion
+[06/01/2024 14:03:18] El paciente P0118 se va del hospital
+[06/01/2024 14:03:18] Paciente P0125 será vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:03:18] S05 va a por vacunas.
+[06/01/2024 14:03:18] S05 ha conseguido vacunas.
+[06/01/2024 14:03:18] Paciente P0123 ha sido vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:03:18] P0123 se dirige a la sala de observacion
+[06/01/2024 14:03:18] S06 comienza su descanso.
+[06/01/2024 14:03:19] El paciente P0119 se va del hospital
+[06/01/2024 14:03:20] Paciente P0126 será vacunado en el puestoSVP4 por el sanitario S02
+[06/01/2024 14:03:20] S02 va a por vacunas.
+[06/01/2024 14:03:20] S02 ha conseguido vacunas.
+[06/01/2024 14:03:21] Paciente P0127 será vacunado en el puestoSVP5 por el sanitario S04
+[06/01/2024 14:03:21] S04 va a por vacunas.
+[06/01/2024 14:03:21] S04 ha conseguido vacunas.
+[06/01/2024 14:03:21] Paciente P0124 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:03:21] P0124 se dirige a la sala de observacion
+[06/01/2024 14:03:22] El paciente P0120 se va del hospital
+[06/01/2024 14:03:22] A2 comienza su descanso.
+[06/01/2024 14:03:22] Paciente P0128 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:03:22] S01 va a por vacunas.
+[06/01/2024 14:03:22] S01 ha conseguido vacunas.
+[06/01/2024 14:03:23] Paciente P0125 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:03:23] P0125 se dirige a la sala de observacion
+[06/01/2024 14:03:23] Paciente P0126 ha sido vacunado en el puestoSVP4 por el sanitario S02
+[06/01/2024 14:03:23] P0126 se dirige a la sala de observacion
+[06/01/2024 14:03:24] A2 termina su descanso.
+[06/01/2024 14:03:25] Paciente P0129 será vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:03:25] S05 va a por vacunas.
+[06/01/2024 14:03:25] S05 ha conseguido vacunas.
+[06/01/2024 14:03:25] Paciente P0127 ha sido vacunado en el puestoSVP5 por el sanitario S04
+[06/01/2024 14:03:25] P0127 se dirige a la sala de observacion
+[06/01/2024 14:03:25] S06 termina su descanso.
+[06/01/2024 14:03:25] El paciente P0121 se va del hospital
+[06/01/2024 14:03:27] Paciente P0130 será vacunado en el puestoSVP4 por el sanitario S02
+[06/01/2024 14:03:27] S02 va a por vacunas.
+[06/01/2024 14:03:27] S02 ha conseguido vacunas.
+[06/01/2024 14:03:27] A1 comienza su descanso.
+[06/01/2024 14:03:27] La reacción del Paciente P0096 ha sido atendida por el sanitario S06
+[06/01/2024 14:03:27] El paciente P0096 se va del hospital
+[06/01/2024 14:03:27] El paciente P0122 se va del hospital
+[06/01/2024 14:03:27] Paciente P0128 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:03:27] P0128 se dirige a la sala de observacion
+[06/01/2024 14:03:28] Paciente P0129 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:03:28] P0129 se dirige a la sala de observacion
+[06/01/2024 14:03:28] El paciente P0123 se va del hospital
+[06/01/2024 14:03:29] La reacción del Paciente P0105 ha sido atendida por el sanitario S06
+[06/01/2024 14:03:29] El paciente P0105 se va del hospital
+[06/01/2024 14:03:30] Paciente P0130 ha sido vacunado en el puestoSVP4 por el sanitario S02
+[06/01/2024 14:03:30] P0130 se dirige a la sala de observacion
+[06/01/2024 14:03:31] A1 termina su descanso.
+[06/01/2024 14:03:31] El paciente P0124 se va del hospital
+[06/01/2024 14:03:32] Paciente P0131 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:03:32] S01 va a por vacunas.
+[06/01/2024 14:03:32] S01 ha conseguido vacunas.
+[06/01/2024 14:03:33] El paciente P0125 se va del hospital
+[06/01/2024 14:03:33] Paciente P0132 será vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:03:33] S05 va a por vacunas.
+[06/01/2024 14:03:33] S05 ha conseguido vacunas.
+[06/01/2024 14:03:33] El paciente P0126 se va del hospital
+[06/01/2024 14:03:34] Paciente P0133 será vacunado en el puestoSVP4 por el sanitario S02
+[06/01/2024 14:03:34] S02 va a por vacunas.
+[06/01/2024 14:03:34] S02 ha conseguido vacunas.
+[06/01/2024 14:03:34] La reacción del Paciente P0111 ha sido atendida por el sanitario S06
+[06/01/2024 14:03:34] El paciente P0111 se va del hospital
+[06/01/2024 14:03:35] Paciente P0134 será vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:03:35] S06 va a por vacunas.
+[06/01/2024 14:03:35] S06 ha conseguido vacunas.
+[06/01/2024 14:03:35] El paciente P0127 se va del hospital
+[06/01/2024 14:03:36] Paciente P0132 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:03:36] P0132 se dirige a la sala de observacion
+[06/01/2024 14:03:37] Paciente P0133 ha sido vacunado en el puestoSVP4 por el sanitario S02
+[06/01/2024 14:03:37] P0133 se dirige a la sala de observacion
+[06/01/2024 14:03:37] Paciente P0131 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:03:37] P0131 se dirige a la sala de observacion
+[06/01/2024 14:03:37] El paciente P0128 se va del hospital
+[06/01/2024 14:03:37] Paciente P0135 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:03:37] S01 va a por vacunas.
+[06/01/2024 14:03:37] S01 ha conseguido vacunas.
+[06/01/2024 14:03:38] El paciente P0129 se va del hospital
+[06/01/2024 14:03:38] Paciente P0134 ha sido vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:03:38] P0134 se dirige a la sala de observacion
+[06/01/2024 14:03:39] Paciente P0136 será vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:03:39] S05 va a por vacunas.
+[06/01/2024 14:03:39] S05 ha conseguido vacunas.
+[06/01/2024 14:03:40] El paciente P0130 se va del hospital
+[06/01/2024 14:03:40] A2 comienza su descanso.
+[06/01/2024 14:03:41] S06 va a por vacunas.
+[06/01/2024 14:03:41] Paciente P0137 será vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:03:41] S06 ha conseguido vacunas.
+[06/01/2024 14:03:42] Paciente P0135 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:03:42] P0135 se dirige a la sala de observacion
+[06/01/2024 14:03:42] Paciente P0136 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:03:42] P0136 se dirige a la sala de observacion
+[06/01/2024 14:03:44] Paciente P0138 será vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:03:44] S01 va a por vacunas.
+[06/01/2024 14:03:44] S01 ha conseguido vacunas.
+[06/01/2024 14:03:44] A2 termina su descanso.
+[06/01/2024 14:03:45] Paciente P0137 ha sido vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:03:45] P0137 se dirige a la sala de observacion
+[06/01/2024 14:03:45] Paciente P0139 será vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:03:45] S05 va a por vacunas.
+[06/01/2024 14:03:45] S05 ha conseguido vacunas.
+[06/01/2024 14:03:46] El paciente P0132 se va del hospital
+[06/01/2024 14:03:46] Paciente P0140 será vacunado en el puestoSVP3 por el sanitario S06
+[06/01/2024 14:03:46] S06 va a por vacunas.
+[06/01/2024 14:03:46] A1 comienza su descanso.
+[06/01/2024 14:03:46] S06 ha conseguido vacunas.
+[06/01/2024 14:03:47] El paciente P0133 se va del hospital
+[06/01/2024 14:03:47] El paciente P0131 se va del hospital
+[06/01/2024 14:03:47] Paciente P0138 ha sido vacunado en el puestoSVP1 por el sanitario S01
+[06/01/2024 14:03:47] P0138 se dirige a la sala de observacion
+[06/01/2024 14:03:47] S01 comienza su descanso.
+[06/01/2024 14:03:48] Paciente P0139 ha sido vacunado en el puestoSVP2 por el sanitario S05
+[06/01/2024 14:03:48] P0139 se dirige a la sala de observacion
+[06/01/2024 14:03:48] El paciente P0134 se va del hospital
